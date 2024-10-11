@@ -2,7 +2,8 @@
 A automation process to short a list of URL links
 
 ## Create virtual environment (venv)
-python3 -m venv venv
+python3 -m venv venv 
+
 source venv/bin/activate
 
 ## Install requirement library
